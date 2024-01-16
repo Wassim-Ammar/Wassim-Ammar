@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Laravel, Vue.js, Inertia.js**
+- 💬 Ask me about **Laravel, Vue.js, Docker, Kubernetes**
 
 - 📫 How to reach me **ammar.mohamedwassim@gmail.com**
 
